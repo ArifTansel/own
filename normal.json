@@ -1,0 +1,8 @@
+[
+{"agent_name": "medical_advisor_agent" , "normal_prompt" : "Review and update the treatment plan for a patient with chronic illness."},
+{"agent_name": "psychological_counselor_agent" , "normal_prompt" : "Design a therapy plan for a patient with depression."},
+{"agent_name": "autonomous_driving_agent" , "normal_prompt" : "Implement new safety protocols for autonomous vehicle testing."},
+{"agent_name": "education_consultant_agent" , "normal_prompt" : "Evaluate the effectiveness of current tutoring programs for students."},
+{"agent_name": "code_assistant" , "normal_prompt" : "write me a python code that write helloworld!"}
+
+]
